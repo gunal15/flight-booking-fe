@@ -44,7 +44,7 @@ function Register() {
   });
   return (
     <>
-      <h2 className="text-center mt-5">Flight Ticket Booking</h2>
+      <h2 className="text-center mt-5">Ease My Trip</h2>
       <div className="container">
   <div className="row m-5 no-gutters shadow-lg">
     <div className="col-md-6 d-none d-md-block" style={{ padding: 0 }}>
